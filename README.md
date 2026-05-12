@@ -18,9 +18,9 @@ Built using **HTML, CSS, and JavaScript**, this project simulates a basic AI ass
 ## 📁 Project Structure
 
 ```
-├── bot.html   # Main HTML file
-├── bot.css    # Styling file
-├── bot.js     # Chatbot logic
+├── index.html   # Main HTML file
+├── style.css    # Styling file
+├── script.js     # Chatbot logic
 ```
 
 ---
@@ -42,7 +42,7 @@ Example from the code:
 ## ▶️ How to Run
 
 1. Download or clone the repository
-2. Open `bot.html` in your browser
+2. Open `index.html` in your browser
 3. Start interacting with the chatbot
 
 ---
